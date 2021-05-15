@@ -7,4 +7,4 @@ Actually, tutorials at https://www.w3schools.com/w3css
 
 
 
-Notice: w3cc.readable is not associated with W3Schools or W3C.
+`w3cc.readable is not associated with W3Schools or W3C.`
