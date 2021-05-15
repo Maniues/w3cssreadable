@@ -1,8 +1,10 @@
-# w3css
-W3.CSS - CSS Framework
+# WWWCSS.READABLE
+## w3css.readable - CSS Framework
 
-Official framework added by author Jan Egil Refsnes.
+Beautified version of W3.CSS
 
-Tutorials at https://www.w3schools.com/w3css
+Actually, tutorials at https://www.w3schools.com/w3css
 
 
+
+Notice: w3cc.readable is not associated with W3Schools or W3C.

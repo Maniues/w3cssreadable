@@ -1,9 +1,12 @@
-Copyright (c) 2021 Maniues
-Copyright (c) 2018 JaniRefsnes
-Copyright © Nicolas Gallagher and Jonathan Neal
-Copyright (C) Massachusetts Institute of Technology for the MIT license text.
+License of thirt-pardy components.
+W3CSS.READABLE is based on following software:
 
-MIT License
+=== W3.CSS ===
+W3.CSS is licensed under MIT License (Expat license)
+Copyright (c) 2018 JaniRefsnes
+=== Normalize.css ===
+Normalize.css is licensed under MIT License (Expat license)
+Copyright © Nicolas Gallagher and Jonathan Neal
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -22,3 +25,8 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+=== MIT LICENSE TEXT COPYRIGHT ===
+Copyright (C) Massachusetts Institute of Technology (MIT) for the MIT license text.
+Note that MIT license text is 
+(C) Massachusetts Institute of Technology (MIT) and text of this license
+is licensed itself (Terms of this license is applied to it too).
