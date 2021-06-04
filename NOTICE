@@ -2,7 +2,7 @@ License of thirt-pardy components.
 W3CSS.READABLE is based on following software:
 
 === W3.CSS ===
-W3.CSS is licensed under MIT License (Expat license)
+W3.CSS is licensed under MIT License 
 Copyright (c) 2018 JaniRefsnes
 === Normalize.css ===
 Normalize.css is licensed under MIT License (Expat license)
@@ -25,8 +25,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-=== MIT LICENSE TEXT COPYRIGHT ===
+=== MIT LICENSE TEXT ===
 Copyright (C) Massachusetts Institute of Technology (MIT) for the MIT license text.
-Note that MIT license text is 
-(C) Massachusetts Institute of Technology (MIT) and text of this license
-is licensed itself (Terms of this license is applied to it too).
+MIT license text is copytighted by MIT and MIT License apply to it itself.
